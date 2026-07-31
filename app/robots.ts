@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next'
 
-const BASE_URL = 'https://13000-i8n4pzjyoyl2qsyclcx9g-8f57ffe2.preview.happyseeds.space'
+const BASE_URL = 'https://sahaba-r6ph-kum1z843v-sahabtsayf652-svgs-projects.vercel.app'
 
 export default function robots(): MetadataRoute.Robots {
   return {
