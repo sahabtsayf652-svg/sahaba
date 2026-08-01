@@ -2,6 +2,9 @@
   "name": "vibe-next-template",
   "version": "0.1.0",
   "private": true,
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "workerd"]
+  },
   "scripts": {
     "dev": "next dev -p 13000",
     "build": "next build",
